@@ -1,0 +1,22 @@
+{
+  "name": "js-dev-coding-chllenge",
+  "version": "1.0.0",
+  "description": "Assignment",
+  "main": "App.js",
+  "scripts": {
+    "start": "nodemon App.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Md.Faruk Ahamad",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "express-async-handler": "^1.1.4",
+    "json2csv": "^5.0.6",
+    "lodash": "^4.17.21",
+    "mongoose": "^6.0.4",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.12"
+  }
+}
